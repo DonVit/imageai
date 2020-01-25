@@ -27,6 +27,6 @@ RUN mv resnet50_weights_tf_dim_ordering_tf_kernels.h5 ~
 
 #Copy scripts and data files
 
-COPY car.jpg /root
+COPY image.jpg /root
 COPY imageprediction.py /root
 COPY imageobjects.py /root
