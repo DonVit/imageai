@@ -10,11 +10,11 @@ Make sure Docker Desktop runs
 
 ## Build Docker machine
 
-From command line run `docker build -t nplmachine .`
+From command line run `docker build -t imageaimachine .`
 
 ## Run Docker machine
 
-On windows run `docker run -it nlpmachine`
+On windows run `docker run -it imageaimachine`
 
 ## Once you get ubnutu promt run script below to predict objects in image.jpg provided
 
